@@ -1,0 +1,51 @@
+body {
+    font-family: "Muli", sans-serif;
+    font-size: 100%;
+    line-height: 1.6;
+    overflow-x: hidden;
+}
+.header-top {
+    background-color: rgba(255,255,255,0.9)!important;
+}
+.header-top {
+    min-height: 41px;
+}
+.full-width .ubermenu-nav, .container, .row {
+    max-width: 1240px;
+}
+.header-main {
+    height: 100px;
+}
+#logo {
+    width: 250px;
+}
+#logo img {
+    max-height: 100px;
+}
+.accordion-title.active, .has-icon-bg .icon .icon-inner, .logo a, .primary.is-underline, .primary.is-link, .badge-outline .badge-inner, .nav-outline > li.active> a, .nav-outline >li.active > a, .cart-icon strong, [data-color='primary'], .is-outline.primary {
+    color: #6abd45;
+}
+.header-main .nav > li > a {
+    line-height: 16px;
+}
+.nav > li > a, .links > li > a {
+    text-transform: none;
+}
+.nav > li > a {
+    font-weight: 700;
+}
+.nav > li > a {
+    font-family: "Muli", sans-serif;
+}
+:root {
+    --primary-color: #6abd45;
+}
+.absolute-footer, html {
+    background-color: #000000;
+}
+body {
+    font-weight: 0;
+}
+.row.row-large {
+    max-width: 1270px;
+}
