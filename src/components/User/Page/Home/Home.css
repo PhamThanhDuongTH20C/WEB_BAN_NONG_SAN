@@ -1,0 +1,100 @@
+#text-box-1418176647 {
+  width: 100%;
+}
+
+#text-box-1418176647 .text {
+  font-size: 100%;
+}
+
+@media (min-width:850px) {
+
+  #text-box-1418176647 {
+    width: 75%;
+  }
+
+}
+
+#banner-318831367 {
+  padding-top: 250px;
+}
+
+#banner-318831367 .bg.bg-loaded {
+  background-image: url(http://mauweb.monamedia.net/happytrade/wp-content/uploads/2019/05/1552466032067_7931969.jpg);
+}
+
+#banner-318831367 .overlay {
+  background-color: rgba(0, 0, 0, 0.15);
+}
+
+@media (min-width:550px) {
+
+  #banner-318831367 {
+    padding-top: 450px;
+  }
+
+}
+
+@media (min-width:850px) {
+
+  #banner-318831367 {
+    padding-top: 580px;
+  }
+
+}
+
+#section_1434671351 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+#section_2061188207 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+#image_196064017 {
+  width: 100%;
+}
+
+#image_1332769249 {
+  width: 100%;
+}
+
+#image_723383747 {
+  width: 100%;
+}
+
+#image_1953694295 {
+  width: 100%;
+}
+
+.custom-prev-arrow,
+.custom-next-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  /* Độ rộng của phần tử tùy chỉnh */
+  height: 40px;
+  /* Chiều cao của phần tử tùy chỉnh */
+  color: black;
+  /* Màu chữ của phần tử tùy chỉnh */
+}
+
+.custom-prev-arrow:hover,
+.custom-next-arrow:hover {
+  color: greenyellow;
+}
+
+.custom-prev-arrow {
+  left: -20px;
+  /* Khoảng cách từ bên trái */
+}
+
+.custom-next-arrow {
+  right: -20px;
+  /* Khoảng cách từ bên phải */
+}
